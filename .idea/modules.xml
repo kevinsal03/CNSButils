@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CNSButils.iml" filepath="$PROJECT_DIR$/CNSButils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnsbutils/cnsbutils.iml" filepath="$PROJECT_DIR$/cnsbutils/cnsbutils.iml" />
     </modules>
   </component>
 </project>
