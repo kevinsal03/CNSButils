@@ -1,7 +1,7 @@
 package me.kevsal.minecraft.cnsbutils;
 
-        import org.bukkit.Bukkit;
-        import org.bukkit.plugin.java.JavaPlugin;
+import org.bukkit.Bukkit;
+import org.bukkit.plugin.java.JavaPlugin;
 
 public class CNSButils extends JavaPlugin {
 
