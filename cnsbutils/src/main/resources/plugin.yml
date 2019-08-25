@@ -1,0 +1,5 @@
+name: CNSButils
+main: me.kevsal.minecraft.cnsbutils.CNSButils
+version: 1.0b
+author: Kevinsal03
+description: Core compoents for ClubNetwork Skyblock
